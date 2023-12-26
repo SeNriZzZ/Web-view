@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "410692905124",
+    "firebase_url": "https://testtask-5d43e-default-rtdb.firebaseio.com",
+    "project_id": "testtask-5d43e",
+    "storage_bucket": "testtask-5d43e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410692905124:android:95f7b9d7be0588ac5d5e31",
+        "android_client_info": {
+          "package_name": "com.Novoplex.testTask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB93iZw-gg2ge_SU1XxewPbdKtIZG2b240"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
