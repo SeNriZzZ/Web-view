@@ -48,9 +48,7 @@
      <Folder Include="Assets\ExternalDependencyManager" />
      <None Include="Assets\GPM\LICENSE.txt" />
      <None Include="Assets\StreamingAssets\google-services-desktop.json" />
-     <Folder Include="Assets\Editor Default Resources\Firebase" />
      <Folder Include="Assets\Scripts" />
-     <Folder Include="Assets\Editor Default Resources" />
      <Folder Include="Assets\GPM" />
      <Folder Include="Assets\StreamingAssets" />
      <Folder Include="Assets\Scenes" />
