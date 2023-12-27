@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{84780bcf-16c5-5707-16ce-463d8ee28447}</ProjectGuid>
+    <ProjectGuid>{b435f572-434d-e90d-a3ee-3d6f88c7b250}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -43,13 +43,7 @@
   <ItemGroup>
      <Folder Include="Assets\ExternalDependencyManager\Editor" />
      <Folder Include="Assets\ExternalDependencyManager\Editor\1.2.177" />
-     <None Include="Assets\Firebase\Editor\FirebaseDatabase_version-11.6.0_manifest.txt" />
      <None Include="Assets\ExternalDependencyManager\Editor\external-dependency-manager_version-1.2.177_manifest.txt" />
-     <None Include="Assets\Firebase\Editor\AuthDependencies.xml" />
-     <Folder Include="Assets\Firebase\Editor" />
-     <None Include="Assets\Firebase\Editor\AppDependencies.xml" />
-     <None Include="Assets\Firebase\Editor\DatabaseDependencies.xml" />
-     <None Include="Assets\Firebase\Editor\FirebaseAuth_version-11.6.0_manifest.txt" />
      <Reference Include="UnityEngine">
      <HintPath>D:\unity\2021.3.24f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
      </Reference>
