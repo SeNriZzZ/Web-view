@@ -156,6 +156,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Android: com.Novoplex.testTask
+    Standalone: com.Novoplex.test
     iPhone: com.Novoplex.test
   buildNumber:
     Standalone: 0
